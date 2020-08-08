@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ugo_xml>
+	<layout>
+		<value>0</value>
+	</layout>
+	<title>
+		<label />
+		<label />
+		<label />
+		<label />
+		<label />
+		<num>0</num>
+	</title>
+	<button>
+		<label>Popular Flipnotes</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/frontpage/hotmovies.uls</address>
+		<trait>100</trait>
+		<value />
+		<value>0</value>
+	</button>
+		<button>
+		<label>Liked Flipnotes</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/frontpage/likedmovies.uls</address>
+		<trait>100</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>New Flipnotes</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/frontpage/newmovies.uls</address>
+		<trait>100</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Flippy News</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/info.htm</address>
+		<trait>0</trait>
+		<value />
+		<value>0</value>
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+	<button>
+		<label>About Flippy</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/about.htm</address>
+		<trait>100</trait>
+		<value />
+		<value>0</value>
+	</button>
+</ugo_xml>
